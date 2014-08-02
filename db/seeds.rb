@@ -16,6 +16,7 @@ other_user = User.create!(
 )
 
 %w(
+http://i.imgur.com/5xEuQ9b.jpg?2
 http://imgur.com/r6OBF6k.jpg
 http://imgur.com/WjVh59i.jpg
 http://imgur.com/IP13MNV.jpg
